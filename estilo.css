@@ -37,32 +37,32 @@ h1 {
 
 .container1 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .container2 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     
 }
 
 .container3 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .container4 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     
 }
 .container5 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     
 }
 .container6 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     
 }
