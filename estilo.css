@@ -37,32 +37,32 @@ h1 {
 
 .container1 {
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
 }
 
 .container2 {
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
     
 }
 
 .container3 {
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
 }
 
 .container4 {
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
     
 }
 .container5 {
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
     
 }
 .container6 {
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
     
 }
